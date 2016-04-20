@@ -11,10 +11,6 @@ app.config['DEBUG'] = False
 def hue():
 	return render_template('index.html')
 
-@app.route('/colors')
-def colors():
-    return render_template('colours.html')
-
 if __name__ == '__main__':
     print "Starting development server..."
     app.run(host="0.0.0.0")
