@@ -2,7 +2,7 @@
 
 hue is a really simple interface for Philips hue lights, developed for fun.
 
-A developer account must be set up on the hue hub with the username `newdeveloper`.
+For information on the Philips hue API, see http://www.developers.meethue.com/philips-hue-api.  A developer account must be set up on the hue hub with the username `newdeveloper`.
 
 A Python virtual environment including the flask web server framework should be installed in the app's home directory.
 
