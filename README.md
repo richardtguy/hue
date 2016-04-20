@@ -13,7 +13,7 @@ $ flask/bin/pip install flask
 
 ```
 
-Executing `server.py` starts a development web server.  Request http://localhost:5000/` from a web browser to use the interface.
+Executing `server.py` starts a development web server.  Request http://localhost:5000/ from a web browser to use the interface.
 
 The first time the app is requested on a new browser it asks the user to input the local IP address for the hue hub (e.g. 192.168.1.1).
 
